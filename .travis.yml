@@ -1,0 +1,17 @@
+language: c
+compiler:
+  - clang
+script:
+  - mkdir -p ~/.ssh && echo -e $SSH_KEY > ~/.ssh/id_rsa && chmod 600 ~/.ssh/id_rsa
+  - echo "Host github.com\nHostName github.com\nIdentityFile ~/.ssh/id_rsa\nUser devsli" > ~/.ssh/config
+  - git checkout -b feeds
+  - git remote set-url origin git@github.com:devsli/ifttt-rss-feeds-weekly-cache.git
+  - wget https://geektimes.ru/rss/best/weekly/ -O geektimes.xml
+  - wget https://habrahabr.ru/rss/best/weekly/ -O habrahabr.xml
+  - git add *.xml
+  - git commit --amend -m "Weekly update"
+  - git push --force --set-upstream origin feeds
+  - rm -f ~/.ssh/id_rsa
+branches:
+  only:
+    - master
