@@ -1,6 +1,4 @@
-language: c
-compiler:
-  - clang
+language: generic
 script:
   - mkdir -p ~/.ssh && echo -e $SSH_KEY > ~/.ssh/id_rsa && chmod 600 ~/.ssh/id_rsa
   - echo "Host github.com\nHostName github.com\nIdentityFile ~/.ssh/id_rsa\nUser devsli" > ~/.ssh/config
