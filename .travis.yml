@@ -7,9 +7,12 @@ script:
   - mkdir -p ~/.ssh && echo -e $SSH_KEY > ~/.ssh/id_rsa && chmod 600 ~/.ssh/id_rsa
   - echo "Host github.com\nHostName github.com\nIdentityFile ~/.ssh/id_rsa\n\n" > ~/.ssh/config
   - git remote set-url origin git@github.com:devsli/ifttt-rss-feeds-weekly-cache.git
+
   - git checkout --orphan feeds && git reset --hard
+
   - wget https://geektimes.ru/rss/best/weekly/ -O geektimes.xml --user-agent="$USERAGENT"
   - wget https://habrahabr.ru/rss/best/weekly/ -O habrahabr.xml --user-agent="$USERAGENT"
+
   - git add *.xml
   - git commit -m "Weekly update"
   - git push origin feeds:feeds --force
