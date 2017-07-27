@@ -12,7 +12,7 @@ script:
   - wget https://habrahabr.ru/rss/best/weekly/ -O habrahabr.xml --user-agent="$USERAGENT"
   - git add *.xml
   - git commit -m "Weekly update"
-  - git push --force --set-upstream origin feeds
+  - git push origin feeds:feeds --force
 
 branches:
   only:
