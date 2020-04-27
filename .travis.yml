@@ -10,7 +10,6 @@ script:
 
   - git checkout --orphan feeds && git reset --hard
 
-  - wget https://habr.com/rss/flows/geektimes/top/weekly/ -O geektimes.xml --user-agent="$USERAGENT"
   - wget https://habr.com/rss/best/weekly/ -O habrahabr.xml --user-agent="$USERAGENT"
 
   - git add *.xml
