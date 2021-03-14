@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Лучшие публикации за неделю</title>
+    <link>https://habr.com/ru/top/weekly/</link>
+    <description><![CDATA[Лучшие публикации за последние 7 дней]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Sun, 14 Mar 2021 18:13:10 GMT</pubDate>
+    
+      <image>
+        <link>https://habr.com/ru/</link>
+        <url>https://habr.com/images/logo.png</url>
+        <title>Хабр</title>
+      </image>
+
+              <item>
+      <title><![CDATA[«Группа смерти» изнутри: люди, которые играют в опасные игры]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/516826/</guid>
+      <link>https://habr.com/ru/post/516826/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=516826</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/mq/ar/6w/mqar6wqtt4h_j8lbzr9vn3b-xby.jpeg"><br>
+<br>
+Помните, сколько было разговоров о подростковых суицидальных группах типа «синий кит»? Широкая огласка и моральная паника способствовали тому, что на ВКонтакте и ряде других площадок такие группы научились оперативно находить и блокировать. Но чем активнее родители и педагоги вели «профилактическую работу», предупреждая об игре и выясняя, не участвуют ли в ней дети, тем больше детей узнавало, что есть такая запретная, таинственная, опасная игра. Последствия этого были вполне естественны — дальнейшее распространение игры уже не требовало участия взрослых. «Синий кит» занял особое место в подростковой культуре, где-то рядом с зацепингом и играми с перебеганием перед движущимся транспортом. Как в Мафии, здесь есть разные роли. Кто-то выбирает для себя роль игрока, кто-то — куратора, кто-то — спасателя, волонтера.<br>
+<br>
+Сегодня мы попробуем увидеть происходящее глазами рядовых участников — не тех, для кого в конечном итоге все кончилось плохо, а того подавляющего большинства, которое играло, а потом продолжило жить.<br> <a href="https://habr.com/ru/post/516826/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=516826#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 11 Mar 2021 07:00:31 GMT</pubDate>
+      <dc:creator>ElizavetaKluchikova</dc:creator>
+      <category><![CDATA[Социальные сети и сообщества]]></category><category><![CDATA[Мозг]]></category>
+      <category><![CDATA[безопасность в сети]]></category><category><![CDATA[подростковая психология]]></category><category><![CDATA[телеграм]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Почему у авокадо большая косточка]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546626/</guid>
+      <link>https://habr.com/ru/post/546626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546626</link>
+      <description><![CDATA[<p><strong><em>Автор: Юрий Деточкин</em></strong></p><p>Когда люди заселили Центральную Америку (около 15 тысяч лет назад), им не пришлось одомашнивать авокадо. Срывай с дерева эти замечательные фрукты и ешь. Сохраняй косточки и сажай где хочешь. Никакой возни с выращиванием урожайных сортов из диких предков. Это тебе не тысячелетние попытки окультурить кукурузу.</p><p>Но как так удачно получилось? Дело в том, что всю селекционную работу ещё до людей проделал кто-то другой, нехитрый, но большой. А люди пришли на всё готовенькое.</p> <a href="https://habr.com/ru/post/546626/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546626#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 12 Mar 2021 06:06:27 GMT</pubDate>
+      <dc:creator>Catx2</dc:creator>
+      <category><![CDATA[Научно-популярное]]></category>
+      <category><![CDATA[биология]]></category><category><![CDATA[эволюция]]></category><category><![CDATA[история]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Самодельный спектрометр с высоким разрешением]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/545810/</guid>
+      <link>https://habr.com/ru/post/545810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545810</link>
+      <description><![CDATA[<p><strong>Хорошее разрешение достижимо</strong></p><p>В интернете много публикаций о том, как используя DVD-R диск и смартфон можно собрать спектрометр, однако характеристики таких устройств не позволяют проводить точные измерения. Мне же удалось сделать прибор с разрешением 0,3 нм.</p> <a href="https://habr.com/ru/post/545810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545810#habracut">Читать дальше</a>]]></description>
+      
+      <pubDate>Tue, 09 Mar 2021 08:58:01 GMT</pubDate>
+      <dc:creator>popscience</dc:creator>
+      <category><![CDATA[Научно-популярное]]></category><category><![CDATA[Нанотехнологии]]></category><category><![CDATA[Физика]]></category><category><![CDATA[DIY или Сделай сам]]></category><category><![CDATA[Химия]]></category>
+      <category><![CDATA[спектрометр]]></category><category><![CDATA[пламя костра]]></category><category><![CDATA[спектральный анализ]]></category><category><![CDATA[дифракционная решётка]]></category><category><![CDATA[спектр]]></category><category><![CDATA[эксперименты]]></category><category><![CDATA[исследование]]></category><category><![CDATA[оптика]]></category><category><![CDATA[приборы]]></category><category><![CDATA[конструирование]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[История одного собеседования]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546744/</guid>
+      <link>https://habr.com/ru/post/546744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546744</link>
+      <description><![CDATA[<p>Наткнулся я тут недавно на одну вакансию. Вау, математика. Дифуры, диффракция, оптика, численные методы, свертки! Все давно забыл уже, что-то и не знал, по трудовому опыту совсем другие вещи, но дай, думаю, кликну, мне что, жалко что ли, чем черт не шутит. </p><p>Звонят, говорят - здравствуйте, Вы нам тут резюме прислали, а Вы заметили, что позиция - для начинающего программиста? Ну, говорю, заметил, но я такими вещами как у вас не занимался никогда, а по зарплате - если, допустим, Х, то это нормально? Да, говорят, говно вопрос, давайте скайп-собеседование.</p><p>Ну, думаю, сейчас меня разнесут. Всегда же разносят. Я так прямо и спросил - я вообще-то ма-а-ахонький-махонький, а вы себе наверное крупного и толстого ищете, да? Но нет, оказалось, что вроде как норм. А ничего, что я средний программишка, а не туз трефной? Нет, ничего. А ничего, что мне тридцать девять, и я бородат? Ничего. Ну, рассказали они мне про себя, а я им немножко про себя, ориентировочно вроде как друг другу понравились, зовут на очную ставку. Так, говорю, скажите, по программированию-то я сам понимаю, а по математике у вас там что, а то я если без подготовки, так все забыл уже давно, зато если с, то, может, чего и смогу. Ну, говорят, у нас тут в принципе линейка, численные методы, дифуры, урчп, функциональный анализ там всякий, куда без него, ну, преобразования Фурье, свертки. Мама дорогая, думаю, а говорю - да-да, отлично, спасибо, до встречи.</p><p>И тут у меня, значит, конкретно бомбануло. Во-первых, это ж, блин, как круто! Вернуться к задачам лихой молодости! А во-вторых, как, блин, прикажете обновить в памяти чуть менее, чем весь университетский курс за неделю? Высшая математика для бывших-студентов-ныне-чайников за одну неделю - где найти такую книгу, лекцию, подкаст? Воспользуемся подсказкой "звонок родственнику-математику". - Слушай, - говорит отчим, здесь наверное живой человек нужен. - Да, соглашаюсь, пожалуй. Но, знаешь, тут такое дело, со всеми твоими бывшими учениками я уже о политике поговорил, так что они не в счет. - Да, я уж понял. Ладно, найдем кого нибудь без Фейсбука. И ушел искать. Сам я меж тем все, что могу, делаю (работа? какая работа, та, что не волк?) Нашелся, значит, репетитор. Ну мы с ним посидели, теоремы всякие вспомнили. Был момент когда я прям то столь знакомое сжатие духа ощутил, когда человек говорит, а ты вдруг уже ничего не понимаешь, и ну ничего не можешь сделать. Это как когда тебя на подъеме чудом еще не выдохшийся велогонщик атакует, а ты быстрее уже просто не можешь, и просто смотришь на его удаляющуюся майку. Я из за этого сжатия, можно сказать, не в университете работаю. Может если б оно не так жало... фиг, в общем, знает. Остались у меня с десяток исписанных листочков и планы в среду повторить чики-брык, о дифурах и частных производных поговорить, но до этого как-то не дошло, я, кажется, решил дальше сам, все сам, все всегда сам. Может если б не это все сам я бы сейчас в университете работал, как все нормальные люди. Но ладно, проехали. Короче, приезжаю я, а там.</p> <a href="https://habr.com/ru/post/546744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546744#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 12 Mar 2021 13:38:23 GMT</pubDate>
+      <dc:creator>ptz</dc:creator>
+      <category><![CDATA[Математика]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[Читальный зал]]></category>
+      <category><![CDATA[собеседование]]></category><category><![CDATA[математика]]></category><category><![CDATA[физика]]></category><category><![CDATA[молодость]]></category><category><![CDATA[жизнь]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Не блокировка, а замедление]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546422/</guid>
+      <link>https://habr.com/ru/post/546422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546422</link>
+      <description><![CDATA[<a href="https://habr.com/ru/post/546422/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/wk/tk/ud/wktkudgaf5uslgn-gzuj58p-xae.png"></div></a><br>
+<i><font color="#999999">Красным указано оборудование ТСПУ (технические средства противодействия угрозам) — «чёрные ящики» от РКН, которые операторы связи размещают с подведением электропитания в отдельных стойках на своих площадка по всей стране, но доступа к устройствам не имеют.</font></i><br>
+<br>
+10 марта 2021 года с 10 часов утра по московскому времени Рунет вступил в новые правила игры. Роскомнадзор начал «<a href="https://habr.com/ru/news/t/546280/">замедлять</a>» на 100% мобильный и 50% трафик широкополосного доступа сервиса микроблогов Twitter.<br>
+<br>
+За этим последовало несколько знаменательных событий. <a href="https://twitter.com/Rostelecom_News/status/1369587254621003776" rel="nofollow noopener noreferrer">Глобальная авария</a> на оборудовании Ростелекома на полдня нарушила доступ к госсайтам и сети оператора. Более 113 тыс. доменов <a href="https://ntc.party/t/twitter/907/45" rel="nofollow noopener noreferrer">оказались</a> в контуре «замедления» РКН, так как они имеют в своём название «t.co», короткий домен Twitter, на который реагирует оборудование ТСПУ.<br>
+<br>
+Хабр совместно с коллегами из «<a href="https://habr.com/ru/company/roskomsvoboda/">РосКомСвободы</a>» постарался рассказать, почему такая ситуация стала возможной, что теперь делать пользователям и как будут развиваться события с Twitter и другими соцсетями.<br> <a href="https://habr.com/ru/post/546422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546422#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 10 Mar 2021 19:30:07 GMT</pubDate>
+      <dc:creator>denis-19</dc:creator>
+      <category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[Сетевые технологии]]></category><category><![CDATA[Законодательство в IT]]></category><category><![CDATA[Социальные сети и сообщества]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[РКН]]></category><category><![CDATA[Роскомнадзор]]></category><category><![CDATA[Twitter]]></category><category><![CDATA[DPI]]></category><category><![CDATA[SNI]]></category><category><![CDATA[ТСПУ]]></category><category><![CDATA[РосКомСвобода]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Никогда такого не было и вот опять. Почему нужно использовать self-hosted VPN. Релиз Amnezia]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546424/</guid>
+      <link>https://habr.com/ru/post/546424/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546424</link>
+      <description><![CDATA[Вот и пришло время для релиза VPN-клиента, родившегося благодаря хакатону <a href="https://2020.demhack.ru/" rel="nofollow noopener noreferrer">DemHack</a>, и выращенного при поддержке <a href="https://roskomsvoboda.org/" rel="nofollow noopener noreferrer">РосКомСвободы</a>, <a href="https://privacyaccelerator.org/" rel="nofollow noopener noreferrer">PrivacyAccelerator</a> и <a href="https://te-st.ru/" rel="nofollow noopener noreferrer">Теплицы социальных технологий</a>.<br>
+<br>
+Спустя полгода с того момента, как идея была впервые озвучена, мы презентуем готовый продукт — бесплатный опенсорсный клиент для self-hosted VPN, с помощью которого вы сможете установить VPN на свой сервер в несколько кликов.<br>
+<br>
+Вместо скучной технической статьи о том, что вот оно: что-то сделали, что-то не успели, что-то пересмотрели, которую можно сократить до нескольких абзацев сути, я решил написать о своих размышлениях, о том, что вообще происходит, о бешеных принтерах, о развитии Интернета, в контексте его приватности, анонимности и блокировок.<br>
+<br>
+<img src="https://habrastorage.org/webt/-j/ga/zk/-jgazk-arac8qcrpggfi8vg8vrw.png" alt="image"><br> <a href="https://habr.com/ru/post/546424/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546424#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 11 Mar 2021 14:32:25 GMT</pubDate>
+      <dc:creator>pokamest_nikak</dc:creator>
+      <category><![CDATA[Блог компании Amnezia VPN]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Законодательство в IT]]></category>
+      <category><![CDATA[vpn]]></category><category><![CDATA[open source]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Заключённый использовал одиночную камеру для изучения математики. Сегодня он решает самые трудные уравнения в мире]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546098/</guid>
+      <link>https://habr.com/ru/post/546098/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546098</link>
+      <description><![CDATA[<p>В 2010 году некий Кристофер Хейвенс (Christopher Havens) был приговорен к 25 годам тюремного заключения за убийство. В 2020 году его работа по теории чисел была опубликована в научном журнале. Все стены камеры, в которой Кристофер Хейвенс отбывает срок, испещрены бумажными листками с формулами.</p><p>Бумажные листы, исписанные числами и греческими символами, уже не помещаются на небольшом столике и теперь, как пёстрые обои, развешаны по всем стенам камеры размером 2.4x3.7 метров. В процессе поиска решений он мог записывать на стенах уравнения непрерывных дробей длиной до 4.5 метров. Это его история.</p> <a href="https://habr.com/ru/post/546098/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546098#habracut">Приятного чтения!</a>]]></description>
+      
+      <pubDate>Thu, 11 Mar 2021 16:59:12 GMT</pubDate>
+      <dc:creator>Doublesharp</dc:creator>
+      <category><![CDATA[Блог компании SkillFactory]]></category><category><![CDATA[Занимательные задачки]]></category><category><![CDATA[Математика]]></category><category><![CDATA[Читальный зал]]></category>
+      <category>skillfactory</category><category>математика</category><category>обучение</category><category>задачи</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Коронавирус нерукотворный: разбираем гипотезу о лабораторном происхождении SARS-CoV-2]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546408/</guid>
+      <link>https://habr.com/ru/post/546408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546408</link>
+      <description><![CDATA[Привет, Хабр! Меня зовут Александр Панчин и я биолог. Так сложилось, что у нас с коллегой сегодня вышла научная статья в журнале BioEssays, посвященная разбору конспирологической теории, которая изначально была сформулирована в виде поста на Хабре. Мне показалось логичным опубликовать разбор не только у себя в блоге, но и здесь, тем более, что добрые люди меня сюда пригласили.<br> <a href="https://habr.com/ru/post/546408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546408#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Wed, 10 Mar 2021 17:16:51 GMT</pubDate>
+      <dc:creator>Scinquisitor</dc:creator>
+      <category><![CDATA[Научно-популярное]]></category><category><![CDATA[Биотехнологии]]></category><category><![CDATA[Здоровье]]></category>
+      <category><![CDATA[коронавирус]]></category><category><![CDATA[SARS-CoV-2]]></category><category><![CDATA[пандемия covid]]></category><category><![CDATA[конспирология]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Конструкция космической электроники (ч.1)]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/545864/</guid>
+      <link>https://habr.com/ru/post/545864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545864</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/2h/y7/qw/2hy7qwlgcyzboabo1a-pzghkrpw.jpeg"><br>
+<br>
+Для типичного геостационарного телекоммуникационного спутника есть своего рода правило 80%. Спутник подразделяют на две большие системы: платформу и полезную нагрузку. <br>
+<br>
+Платформа – это несущие конструкции, электропитание, двигатели, система ориентации и стабилизации и т.д., а полезная нагрузка – это связная аппаратура, которая выполняет целевую функцию. Так вот, масса платформы составляет примерно 70-80% массы космического аппарата (КА), но для стоимости самого КА соотношение обратное, 70-80% цены – это полезная нагрузка. В основном, полезная нагрузка – это электронные приборы, разного рода приемники, передатчики и модемы. Их цена в большой степени складывается из цены радиационно-стойких космических микросхем. Про космические микросхемы уже было несколько интересных статей, а вот про «железо», которое их физически связывает в рабочий прибор, еще вроде нет. Несмотря на то, что стоимость механической конструкции – это единицы процентов в общей стоимости прибора, без ее правильного проектирования невозможно обеспечить адекватную массу и надежность космической электроники. И теперь, если вы прониклись важностью и актуальностью этой темы, добро пожаловать под кат.<br> <a href="https://habr.com/ru/post/545864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545864#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 09 Mar 2021 16:58:58 GMT</pubDate>
+      <dc:creator>Garry_D</dc:creator>
+      <category><![CDATA[Производство и разработка электроники]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Космонавтика]]></category>
+      <category><![CDATA[спутники связи]]></category><category><![CDATA[космос]]></category><category><![CDATA[космические аппараты]]></category><category><![CDATA[электроника и конструирование]]></category><category><![CDATA[тепловой режим]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[10 лет аварии на АЭС Фукусима. Последствия и итоги]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/545968/</guid>
+      <link>https://habr.com/ru/post/545968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545968</link>
+      <description><![CDATA[<p>11 марта 2011 года у восточного побережья Японии произошло крупнейшее в истории страны Великое восточно-японское&nbsp;землетрясение и вызванное им цунами. В результате погибло и пропало без вести почти <a href="https://www.researchgate.net/publication/258375534_The_March_2011_Japan_Earthquake_Analysis_of_Losses_Impacts_and_Implications_for_the_Understanding_of_Risks_Posed_by_Extreme_Events">20 тысяч человек</a>, было разрушено около миллиона домов, около полумиллиона человек были вынуждены эвакуироваться.</p><p>Но для многих главным событием тех дней стала авария на АЭС Фукусима-Дайчи, крупнейшая авария на атомной станции после Чернобыльской катастрофы. Как физик-ядерщик я наблюдал за событиями тех дней, переживая за людей в Японии и коллег по отрасли на станции. Многое за эти годы написано о причинах аварии. Но в своей статье я хочу рассказать о некоторых заблуждениях, связанных с последствиями аварии – для людей, окружающей среды и мировой атомной отрасли. И о том что сделано за эти 10 лет. </p><p>Фото на заставке: <a href="https://www.japantimes.co.jp/">www.japantimes.co.jp</a></p> <a href="https://habr.com/ru/post/545968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545968#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Thu, 11 Mar 2021 03:26:04 GMT</pubDate>
+      <dc:creator>Nucl0id</dc:creator>
+      <category><![CDATA[Блог компании ITSOFT]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Физика]]></category><category><![CDATA[Здоровье]]></category><category><![CDATA[Экология]]></category>
+      <category><![CDATA[фукусима]]></category><category><![CDATA[чернобыльская авария]]></category><category><![CDATA[аэс]]></category><category><![CDATA[атомная станция]]></category><category><![CDATA[энергия]]></category><category><![CDATA[экология]]></category><category><![CDATA[авария]]></category><category><![CDATA[радиация]]></category><category><![CDATA[взрыв]]></category><category><![CDATA[ядерное топливо]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как я делаю цифровую минигитару. Часть 2]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546000/</guid>
+      <link>https://habr.com/ru/post/546000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546000</link>
+      <description><![CDATA[<p>Прошло 4 месяца с написания <a href="https://habr.com/ru/post/517916/" rel="noopener noreferrer nofollow">предыдущей статьи</a>, за это время произошло довольно много нового как по технической части, так и по позиционированию девайса.  В статье я расскажу, чем же мы занимались.</p> <a href="https://habr.com/ru/post/546000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546000#habracut">Поехали!</a>]]></description>
+      
+      <pubDate>Mon, 08 Mar 2021 11:21:52 GMT</pubDate>
+      <dc:creator>Dudarion</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Развитие стартапа]]></category><category><![CDATA[Производство и разработка электроники]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[DIY или Сделай сам]]></category>
+      <category><![CDATA[sensy]]></category><category><![CDATA[stm32]]></category><category><![CDATA[ble]]></category><category><![CDATA[midi]]></category><category><![CDATA[usb]]></category><category><![CDATA[ios]]></category><category><![CDATA[гитара]]></category><category><![CDATA[музыка]]></category><category><![CDATA[электроника]]></category><category><![CDATA[стартап]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как ощутить «интернет 2000 года»]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546724/</guid>
+      <link>https://habr.com/ru/post/546724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546724</link>
+      <description><![CDATA[<p>Думаю, на Хабре есть уже много людей, никогда не слышавших звук модемного подключения по телефонной линии. А люди, заставшие те времена, наверняка успели многое подзабыть.</p><p>Все знают, что раньше интернет был попроще. Но часто ли вы вспоминаете, что во время его использования вся семья оставалась без телефонной связи? Помните ли встроенный в Opera баннер? Программы FlashGet и eMule? Вёрстку сайтов таблицами и фреймами? Штурмовые корабли в огне на подступах к Ориону? (Извините, увлёкся.)</p><p>По-моему, около 2000-го произошёл прорыв: в 90-х интернет был ещё гиковской историей, а в нулевых стал мейнстримом. Как можно сегодня ощутить времена этого прорыва? Увидеть старые сайты помогает Wayback Machine, но если делаешь это в свежем браузере через современное подключение, видишь только часть картины. Поэтому сделал подборку из информации, ссылок и советов, которые дополнят опыт. Те, кто постарше, ощутят ностальгию, а те, кто помладше, узнают что-то новое.</p> <a href="https://habr.com/ru/post/546724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546724#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 12 Mar 2021 13:08:34 GMT</pubDate>
+      <dc:creator>phillennium</dc:creator>
+      <category><![CDATA[Блог компании JUG Ru Group]]></category><category><![CDATA[Веб-дизайн]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[История IT]]></category>
+      <category><![CDATA[интернет]]></category><category><![CDATA[браузеры]]></category><category><![CDATA[dial-up]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[О Twitter'е бедном замолвите слово]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546362/</guid>
+      <link>https://habr.com/ru/post/546362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546362</link>
+      <description><![CDATA[<p>К сожалению, сколько-нибудь полезной технической информации о том, как именно РКН решил осуществлять то, о чём публично заявил — не так много. Можно даже сказать, что её практически нет. Так что остаётся только спекулировать на наблюдениях и доступных данных.</p><p>Некоторые спекуляции и наблюдения — под катом.</p> <a href="https://habr.com/ru/post/546362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546362#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Wed, 10 Mar 2021 16:35:14 GMT</pubDate>
+      <dc:creator>mva</dc:creator>
+      <category><![CDATA[Блог компании РосКомСвобода]]></category><category><![CDATA[Сетевые технологии]]></category><category><![CDATA[Законодательство в IT]]></category><category><![CDATA[Социальные сети и сообщества]]></category><category><![CDATA[Сетевое оборудование]]></category>
+      <category><![CDATA[twitter]]></category><category><![CDATA[роскомнадзор]]></category><category><![CDATA[блокировки]]></category><category><![CDATA[dpi]]></category><category><![CDATA[фильтрация]]></category><category><![CDATA[соцсети]]></category><category><![CDATA[суверенный интернет]]></category><category><![CDATA[операторы связи]]></category><category><![CDATA[ростелеком]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Гидропоника в промышленности, или Откуда зимой свежие овощи]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/545716/</guid>
+      <link>https://habr.com/ru/post/545716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545716</link>
+      <description><![CDATA[После публикации моей <a href="https://habr.com/ru/company/lanit/blog/524570/">статьи</a> про картофель в комментариях был поднят вопрос о вкусе домашних, выращенных в парниках на приусадебном участке, и промышленных томатов.<br>
+<br>
+Промышленное выращивание овощей, в том числе томатов, происходит в открытом грунте в южных регионах нашей страны, а так как большая часть России находится в зоне рискованного земледелия, то для получения урожая не обойтись без сооружений для защиты грунта от неблагоприятных погодных условий – теплиц. В этой статье мы поговорим о технологиях, которые используются в промышленном растениеводстве, и о том, какие шаги необходимо предпринять, чтобы вырастить эталонные томаты.<br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/312/555/d51/312555d51822a136bc23b1408d10a462.jpg"></div><a href="https://www.vesti.ru/nauka/article/1045145" rel="nofollow noopener noreferrer"><i>Источник</i></a><br> <a href="https://habr.com/ru/post/545716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545716#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 09 Mar 2021 07:01:01 GMT</pubDate>
+      <dc:creator>KPLan</dc:creator>
+      <category><![CDATA[Блог компании ГК ЛАНИТ]]></category><category><![CDATA[Биотехнологии]]></category>
+      <category><![CDATA[ланит]]></category><category><![CDATA[биотехнологии]]></category><category><![CDATA[ланит-интеграция]]></category><category><![CDATA[теплицы]]></category><category><![CDATA[гидропоника]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Разработчик 7-Zip выпустил официальный билд для Linux спустя 22 года после выхода Windows-версии]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546496/</guid>
+      <link>https://habr.com/ru/post/546496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546496</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/webt/rr/bj/e1/rrbje1cx9j8qngfilnxcdfszuri.png"></div> <br>
+Архиватор 7-Zip отлично справляется со своей задачей — эффективно сжимать данные. Его можно назвать «швейцарским ножом» в мире архиваторов. Он поддерживает разные алгоритмы сжатия и большое количество форматов данных, таких как ZIP, gzip, tar и RAR. Отдельный плюс — в том, что архиватор свободный.<br>
+ <br>
+Первая версия 7-Zip увидела свет 18 июля 1999 года, за относительно короткое время архиватор смог стать очень популярным. Относительный недостаток 7-Zip — наличие лишь версии для Windows (официальный клиент). Но сейчас, спустя всего 22 года, появился и вариант для Linux, официальный билд от разработчиков.<br> <a href="https://habr.com/ru/post/546496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546496#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 12 Mar 2021 10:29:57 GMT</pubDate>
+      <dc:creator>Tyooo</dc:creator>
+      <category><![CDATA[Блог компании Selectel]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Разработка под Linux]]></category><category><![CDATA[Софт]]></category><category><![CDATA[IT-компании]]></category>
+      <category><![CDATA[7-zip]]></category><category><![CDATA[архиваторы]]></category><category><![CDATA[linux]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как подключить содержимое любых файлов для использования в коде C / C++]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/545946/</guid>
+      <link>https://habr.com/ru/post/545946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545946</link>
+      <description><![CDATA[<p>Задача состояла в подключении файлов: <strong>HTML</strong>, <strong>JS</strong>, <strong>CSS</strong>; без специальной подготовки. Так же неудобно подключать <strong>бинарные</strong> файлы (например <strong>картинки</strong>) конвертируя их в <strong>HEX</strong>. Так как не хотелось конвертировать в <strong>HEX</strong> или разделять на строки, искал способ подключения файла в <u>адресное пространство программы</u>.</p> <a href="https://habr.com/ru/post/545946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=545946#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Sun, 07 Mar 2021 22:29:44 GMT</pubDate>
+      <dc:creator>HiSER</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Совершенный код]]></category><category><![CDATA[C++]]></category><category><![CDATA[Отладка]]></category><category><![CDATA[C]]></category>
+      <category><![CDATA[stm32]]></category><category><![CDATA[arduino]]></category><category><![CDATA[lwip]]></category><category><![CDATA[httpd]]></category><category><![CDATA[esp8266]]></category><category><![CDATA[assembler]]></category><category><![CDATA[c/c++]]></category><category><![CDATA[avr]]></category><category><![CDATA[toolchain]]></category><category><![CDATA[gnu]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] −2000 строк кода]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546066/</guid>
+      <link>https://habr.com/ru/post/546066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546066</link>
+      <description><![CDATA[<em><a href="https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt" rel="nofollow noopener noreferrer">История</a> с сайта Folklore.org рассказывает эпизод процесса разработки внутри Apple в первые годы жизни компании.</em><br>
+<br>
+В начале 1982 года команда ПО Lisa старалась двигаться к тому, чтобы в течение следующих шести месяцев софт вышел. Часть менеджеров решила, что неплохо бы оценивать производительность каждого отдельного инженера в числе строк кода, написанных за неделю. Менеджеры создали форму, которую инженеров обязали заполнять каждую пятницу. В этой форме одно из полей отвели на число строк кода за неделю.<br>
+<br>
+Билл Аткинсон, автор Quickdraw, один из главных дизайнеров пользовательского интерфейса и явно самый важный разработчик Lisa, посчитал число строк кода глупой оценкой продуктивности. Билл видел своей целью писать как можно более маленькие и быстрые программы. Показатель в число строк кода наоборот побуждал писать небрежный, раздутый и кривой код.<br> <a href="https://habr.com/ru/post/546066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546066#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 09 Mar 2021 07:06:36 GMT</pubDate>
+      <dc:creator>TheHolidayArmadillo</dc:creator>
+      <category><![CDATA[Блог компании Альфа-Банк]]></category><category><![CDATA[Управление разработкой]]></category><category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[История IT]]></category>
+      <category>дизайн программного обеспечения</category><category>управление</category><category>Lisa</category><category>управление проектами</category><category>управление разработкой</category><category>эффективные менеджеры</category>
+    </item>
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Таинство отбеливания пожелтевшего пластика]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546172/</guid>
+      <link>https://habr.com/ru/post/546172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546172</link>
+      <description><![CDATA[<a href="https://habr.com/ru/company/ruvds/blog/546172/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/co/ip/nv/coipnvbwx2c3k4nav4en2kx9ddo.png"></div></a><br>
+Если вы являетесь участником сообщества ретро-геймеров или любителей ретро-компьютеров, то у вас наверняка есть винтажные устройства, которые под гнетом лет поблекли и начали желтеть. Вы также могли слышать о методике Retr0bright или даже смотреть различные <a href="https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww" rel="nofollow noopener noreferrer">видео от 8-bit Guy</a>, посвященные этой теме. Но самая суть все равно остается для большинства людей скрыта. Почему пластик желтеет, и что именно происходит в процессе Retr0bright? Да и вообще, безопасно ли использование этой техники для коллекционных экземпляров? <a href="https://habr.com/ru/post/546172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546172#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Thu, 11 Mar 2021 13:10:02 GMT</pubDate>
+      <dc:creator>Bright_Translate</dc:creator>
+      <category><![CDATA[Блог компании RUVDS.com]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Старое железо]]></category><category><![CDATA[Физика]]></category><category><![CDATA[Химия]]></category>
+      <category>ruvds_перевод</category><category>отбеливание</category><category>химия</category><category>пластик</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[История одной коробки передач]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546764/</guid>
+      <link>https://habr.com/ru/post/546764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546764</link>
+      <description><![CDATA[<p>В общем, задумал я однажды придумать свою автоматическую коробку передач. Так чтобы не хуже других получилась. Не хуже - это чтобы были настраиваемые (желательно программно) передачи, обязательно наличие заднего хода, сама конструкция, в плане механики, была бы как можно проще, и при этом отсутствовали внутренние пробуксовки (как в вариаторе и гидротрансформаторе традиционной АКПП). Область применения: в качестве коробки передач в легковых авто, в качестве редукторов в промышленном оборудовании. <s>Нахрена</s> Зачем мне это надо было? Тут следует уточнить что на дворе был 2011 год, я на последнем курсе универа, специальность по диплому инженер-конструктор ракетостроения. До этого уже был интересный проект, который потянул на курсовую работу под названием "Механический аккумулятор крутящего момента". Суть которого заключалась в создании устройства, работающего в паре с двигателем в какой-либо системе, чтобы компенсировать редкие пиковые нагрузки крутящего момента, превышающего возможности двигателя. Также был проект в котором я попытался оптимизировать работу дискретного клапана-дросселя, работающего под газом. Такого как на картинке ниже.</p> <a href="https://habr.com/ru/post/546764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546764#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Fri, 12 Mar 2021 15:37:20 GMT</pubDate>
+      <dc:creator>turbotopka</dc:creator>
+      <category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[3D-принтеры]]></category><category><![CDATA[Инженерные системы]]></category>
+      <category><![CDATA[Автоматическая коробка передач]]></category><category><![CDATA[вариатор]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как у меня увели домен]]></title>
+      <guid isPermaLink="true">https://habr.com/ru/post/546174/</guid>
+      <link>https://habr.com/ru/post/546174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546174</link>
+      <description><![CDATA[<p>Хочу поделиться радостной новостью, если у вас есть домен на reg.ru или его партнерах 2domains.ru или других, то возможно это не надолго, в смысле есть он у вас не надолго.</p><p>После разбирательства оказалось мой регистратор, без единого письма на почту передал мой домен другому лицу, а потом отправил его другому регистратору. Как так получилось?</p> <a href="https://habr.com/ru/post/546174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=546174#habracut">Читать далее</a>]]></description>
+      
+      <pubDate>Tue, 09 Mar 2021 13:06:31 GMT</pubDate>
+      <dc:creator>stagnantice</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Администрирование доменных имен]]></category><category><![CDATA[Логические игры]]></category>
+      <category><![CDATA[color lines]]></category><category><![CDATA[угон домена]]></category><category><![CDATA[электронная подпись]]></category><category><![CDATA[reg.ru]]></category><category><![CDATA[webnames.ru]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>
